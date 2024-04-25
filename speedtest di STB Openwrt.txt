@@ -1,9 +1,0 @@
-
-Masuk ke terminal
-• Masukan script di bawah ini
-
-wget -O /bin/speedtest "https://raw.githubusercontent.com/vitoharhari/speedtest/main/speedtest" && chmod +x /bin/speedtest
-
-• Lalu enter
-
-Video tutorial nya => https://youtu.be/lLxfz_FsMYM
